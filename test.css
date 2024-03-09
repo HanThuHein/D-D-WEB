@@ -1,0 +1,50 @@
+.p1{
+ text-align: center;
+ color: red;
+}
+
+.p2{
+    text-align: left;
+    color: blue;
+}
+
+.p3 {
+    text-align: right;
+    color: green;
+}
+
+.p4{
+    text-align: justify;
+    color: purple;
+}
+
+a{
+    font-weight: bold;
+    font-size: 100px;
+    display: block;
+}
+
+
+li{
+    color: #AABBCC;
+}
+
+.a1{
+    color: green;
+}
+
+.a2{
+    color: blueviolet;
+}
+ 
+.a3{
+    color: black;
+}
+
+pre{
+    font-size: 50px;
+}
+
+blockquote{
+    text-align: right;
+}
